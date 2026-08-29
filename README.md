@@ -98,46 +98,6 @@
   • Lógica de Programação<br>
   • Desenvolvimento Front-End<br>
   • Desenvolvimento Back-End
-</p>
-
-###
-
-<h3 data-importer="text" align="left">📌 Projetos:</h3>
-
-###
-
-<p data-importer="text" align="left">
-  Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado em programação e desenvolvimento web.
-  HTML5
-</p><img width="1084" height="599" alt="imagem_web3" src="https://github.com/user-attachments/assets/875c2507-3544-429d-b9ed-9ddb06db9246" />
-<img width="1085" height="487" alt="imagem_web4" src="https://github.com/user-attachments/assets/39687de2-f977-4c13-b0e9-300891d4d6cf" />
-<img width="1046" height="834" alt="imagem_web1" src="https://github.com/user-attachments/assets/cc6dc20b-2521-4397-9de3-a9e10cbf1ac3" />
-<img width="1096" height="595" alt="imagem_web2" src="https://github.com/user-attachments/assets/68717d11-edcd-4615-aa8a-c60cd535c959" />
-
-<h3 align="left">♿ Projeto de Acessibilidade</h3>
-
-<p align="left">
-  💡 <strong>Projeto desenvolvido com auxílio de Inteligência Artificial</strong>, realizado durante a aula de <strong>Prototipagem de Prompts e IA</strong>.
-  <br><br>
-  O projeto teve como foco a criação de uma solução voltada para <strong>acessibilidade na web</strong>, buscando proporcionar uma experiência mais inclusiva, intuitiva e acessível aos usuários.
-  <br><br>
-  🤖 Durante o desenvolvimento, utilizei conceitos de <strong>Inteligência Artificial e Engenharia de Prompts</strong> para auxiliar na criação e aprimoramento da solução.
-</p>
-
-<div align="center">
-
-  <a href="https://robsona222.github.io/PROJETO-HELPOLD/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Acessar%20Projeto-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Acessar Projeto" />
-  </a>
-
-</div>
-
-<br>
-
-<p align="center">
-  <strong>🔗 Projeto:</strong> PROJETO-HELPOLD
-</p>
-
 
 
 
