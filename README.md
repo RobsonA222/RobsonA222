@@ -102,8 +102,8 @@
 
 <h3>  PROJETOS </h3>
 
-HelpOld — Acessibilidade Digital - Criado com auxilio de ia
- https://robsona222.github.io/PROJETO-HELPOLD/
+<h4>HelpOld — Acessibilidade Digital - Criado com auxilio de ia<h4>
+ <p>https://robsona222.github.io/PROJETO-HELPOLD/
 
 
 O que é o projeto
@@ -134,11 +134,13 @@ Promover inclusão digital para idosos e pessoas com deficiência
 Demonstrar a implementação prática das diretrizes WCAG 2.1
 Utilizar apenas tecnologias web padrão (HTML, CSS, JavaScript)
 Garantir compatibilidade com leitores de tela populares
-Oferecer uma interface simplificada para públicos diversos.
+Oferecer uma interface simplificada para públicos diversos.<p>
 
-<p> Projeto ECOUmbrella – Recicle. Conecte. Ganhe.:
-
+<h4> Projeto ECOUmbrella – Recicle. Conecte. Ganhe - Criado com auxilio de ia:<h4>
+<p>
+  
  https://robsona222.github.io/PROMPTS-ECOUMBRELLA/
+  
 O que é
 Uma plataforma de sustentabilidade voltada para moradores de condomínios e pequenos comércios, com foco no público de 15 a 35 anos, que facilita a coleta seletiva de materiais recicláveis conectando comunidades urbanas.
 
