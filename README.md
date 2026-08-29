@@ -102,9 +102,9 @@
 
 <h3>  PROJETOS </h3>
 
-HelpOld — Acessibilidade Digital
+HelpOld — Acessibilidade Digital - Criado com auxilio de ia
  https://robsona222.github.io/PROJETO-HELPOLD/
-Resumo elaborado com o auxílio de Inteligência Artificial (Claude, Anthropic)
+
 
 O que é o projeto
 
