@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img width="2048" height="2048" alt="web_dev_cover_personalizado" src="https://github.com/user-attachments/assets/8fb08fbd-71f1-4651-b4c3-a1a925d8af8f" />
+  <<img width="1376" height="768" alt="Firefly_Gemini Flash_faça imagem um pouco mais elaborada e coloque em 16-9 537033 (1)" src="https://github.com/user-attachments/assets/77b1b197-de02-46c5-8292-e3b1293e2ba0" />
+ />
 </div>
 
 ###
