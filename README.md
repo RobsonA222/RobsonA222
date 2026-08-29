@@ -1,7 +1,7 @@
 
 <div align="center">
   <<img width="1376" height="768" alt="Firefly_Gemini Flash_faça imagem um pouco mais elaborada e coloque em 16-9 537033 (1)" src="https://github.com/user-attachments/assets/77b1b197-de02-46c5-8292-e3b1293e2ba0" />
- />
+
 </div>
 
 ###
