@@ -102,4 +102,38 @@
 
 <h3>  PROJETOS </h3>
 
+HelpOld — Acessibilidade Digital
+ https://robsona222.github.io/PROJETO-HELPOLD/
+Resumo elaborado com o auxílio de Inteligência Artificial (Claude, Anthropic)
+
+O que é o projeto
+
+
+O HelpOld é um projeto acadêmico de acessibilidade web que demonstra, na prática, como implementar soluções de inclusão digital para idosos e pessoas com deficiência visual, auditiva e motora. Foi desenvolvido com tecnologias web nativas — HTML5, CSS3, JavaScript, Web Speech API e ARIA — sem dependências externas.
+
+Funcionalidades implementadas
+Ajuste de fonte — permite aumentar ou diminuir o tamanho do texto (de 14px a 32px), sem perda de conteúdo.
+Alto contraste — esquema de cores preto e amarelo, com ratio mínimo de 4.5:1, voltado a usuários com daltonismo ou baixa visão.
+Leitura de texto (TTS) — utiliza a Web Speech API do navegador para ler o conteúdo da página em voz alta, em português.
+Navegação por teclado — todos os elementos interativos são acessíveis via Tab, Enter e setas, sem depender do mouse.
+Textos alternativos (ARIA) — atributos alt e aria-label garantem compatibilidade com leitores de tela como NVDA e JAWS.
+Modo escuro — reduz o brilho e a fadiga visual, útil para usuários fotossensíveis ou uso noturno.
+Área interativa de demonstração — permite testar em tempo real o ajuste de fonte, espaçamento entre linhas, leitura em voz alta e modos de contraste.
+Contexto e motivação
+
+O projeto apresenta dados que reforçam a urgência do tema:
+
+1,3 bilhão de pessoas com deficiência no mundo
+97% dos sites apresentam falhas de acessibilidade
+253 milhões de pessoas com deficiência visual
+466 milhões de pessoas com deficiência auditiva
+32 milhões de idosos (60+) no Brasil
+18,6 milhões de brasileiros com algum tipo de deficiência (segundo o IBGE)
+Objetivos do projeto
+Promover inclusão digital para idosos e pessoas com deficiência
+Demonstrar a implementação prática das diretrizes WCAG 2.1
+Utilizar apenas tecnologias web padrão (HTML, CSS, JavaScript)
+Garantir compatibilidade com leitores de tela populares
+Oferecer uma interface simplificada para públicos diversos
+
 ###
