@@ -102,7 +102,7 @@
 
 <h3>  PROJETOS </h3>
 
-<h4>HelpOld — Acessibilidade Digital - Criado com auxilio de ia<h4>
+<h4>HelpOld — Acessibilidade Digital - Criado com auxílio de IA<h4>
  <p>https://robsona222.github.io/PROJETO-HELPOLD/
 
 
@@ -136,7 +136,7 @@ Utilizar apenas tecnologias web padrão (HTML, CSS, JavaScript)
 Garantir compatibilidade com leitores de tela populares
 Oferecer uma interface simplificada para públicos diversos.<p>
 
-<h4> Projeto ECOUmbrella – Recicle. Conecte. Ganhe - Criado com auxilio de ia:<h4>
+<h4> Projeto ECOUmbrella – Recicle. Conecte. Ganhe - Criado com auxílio de IA:<h4>
 <p>
   
  https://robsona222.github.io/PROMPTS-ECOUMBRELLA/
