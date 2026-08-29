@@ -134,6 +134,36 @@ Promover inclusão digital para idosos e pessoas com deficiência
 Demonstrar a implementação prática das diretrizes WCAG 2.1
 Utilizar apenas tecnologias web padrão (HTML, CSS, JavaScript)
 Garantir compatibilidade com leitores de tela populares
-Oferecer uma interface simplificada para públicos diversos
+Oferecer uma interface simplificada para públicos diversos.
+
+<p> Projeto ECOUmbrella – Recicle. Conecte. Ganhe.:
+
+ https://robsona222.github.io/PROMPTS-ECOUMBRELLA/
+O que é
+Uma plataforma de sustentabilidade voltada para moradores de condomínios e pequenos comércios, com foco no público de 15 a 35 anos, que facilita a coleta seletiva de materiais recicláveis conectando comunidades urbanas.
+
+Números de destaque
+
+Mais de 4.200 usuários ativos
+18 toneladas de material reciclado
+320 pontos de coleta
+58 parceiros
+
+Principais funcionalidades
+
+Mapas de Coleta — localiza pontos de coleta próximos com horários em tempo real
+Sistema de Pontos — recompensa cada reciclagem com pontos trocáveis por descontos e produtos
+Ranking Ecológico — competição entre moradores/condomínios pela liderança em sustentabilidade
+Alertas de Coleta — notificações para não perder o dia da coleta
+
+Categorias de reciclagem: reciclagem geral, eletrônicos, vidro e óleo de cozinha.
+
+Fluxo de cadastro
+O site tem um cadastro em 3 etapas: dados pessoais → localização (CEP/tipo de imóvel) → materiais reciclados e como conheceu a plataforma. Ao final, o usuário ganha 50 pontos de boas-vindas.
+
+Parceiros: EcoBrasil (reciclagem de plásticos), VerdeMais (compostagem), Energia Limpa (energia renovável) e Planta & Vida (arborização urbana).
+
+Acessibilidade: o site inclui recursos como ajuste de tamanho de fonte, filtros para daltonismo (protanopia, deuteranopia, tritanopia, acromatopsia), alto contraste e leitura por voz.</p>
+
 
 ###
