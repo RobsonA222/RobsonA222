@@ -37,15 +37,17 @@
 ###
 
 <p data-importer="text" align="left">
-  Iniciei minha trajetória profissional como ajudante de jardinagem na ERA TÉCNICA. Com dedicação e empenho, fui efetivado após o período de experiência e promovido ao cargo de jardineiro. Durante essa trajetória, desenvolvi interesse pela liderança, busquei constantemente me aperfeiçoar e tive a oportunidade de assumir a função de Líder, desafio que aceitei com entusiasmo.
+  Iniciei minha trajetória profissional na ERA TÉCNICA e, ao longo dos anos, tive a oportunidade de crescer profissionalmente e assumir a função de Líder, desafio que aceitei com entusiasmo, dedicação e responsabilidade.
   <br><br>
-  Ao longo dos anos, cresci profissionalmente dentro da empresa, adquirindo experiência, responsabilidade e habilidades em liderança, organização, gestão de equipes e acompanhamento de processos.
+ Durante minha experiência profissional, desenvolvi competências em liderança, organização, gestão de equipes, controle de processos, acompanhamento de atividades e resolução de problemas. Essa vivência contribuiu significativamente para minha evolução profissional e pessoal, fortalecendo minha capacidade de trabalhar em equipe, assumir responsabilidades e buscar soluções para diferentes desafios.
   <br><br>
-  Atualmente, busco direcionar minha carreira para a área de tecnologia, na qual tenho grande afinidade e interesse. Sou estudante de Análise e Desenvolvimento de Sistemas e venho me dedicando ao aprendizado contínuo, buscando aproveitar cada oportunidade para adquirir novos conhecimentos e experiências.
+ Atualmente, estou direcionando minha carreira para a área de Tecnologia, na qual tenho grande interesse e afinidade. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e venho me dedicando continuamente ao desenvolvimento das minhas habilidades técnicas e profissionais.
   <br><br>
-  Tenho especial interesse em <strong>Desenvolvimento Web</strong> e meu objetivo profissional é atuar como <strong>Desenvolvedor Full Stack</strong>, aprimorando minhas habilidades tanto no desenvolvimento Front-End quanto no Back-End.
+  Tenho especial interesse em Desenvolvimento Web e meu objetivo profissional é atuar como Desenvolvedor Full Stack, aprimorando meus conhecimentos em Front-End e Back-End e transformando o aprendizado em projetos práticos.
   <br><br>
-  🚀 Estou sempre em busca de novos desafios, experiências e oportunidades para transformar aprendizado em projetos e evolução profissional.
+  Busco constantemente novos desafios, conhecimentos e oportunidades para evoluir profissionalmente, unindo minha experiência em liderança e gestão aos conhecimentos que venho adquirindo na área de tecnologia.
+  <br><br>
+  Estou aberto a conexões, projetos e oportunidades na área de tecnologia que contribuam para essa nova etapa da minha carreira.
 </p>
 
 ###
