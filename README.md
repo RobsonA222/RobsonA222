@@ -3,9 +3,9 @@
 
 <br><br>
 
-<h1>👋 Olá, eu sou Robson de Araújo Andrade<h1>
+<h3>👋 Olá, eu sou Robson de Araújo Andrade<h3>
 
-💻 Desenvolvedor Web em formação | 🎓 Estudante de ADS | 🚀 Futuro Full Stack
+<h4>💻 Desenvolvedor Web em formação | 🎓 Estudante de ADS | 🚀 Futuro Full Stack<h4>
 <p> Transformando aprendizado em projetos reais e buscando minha primeira oportunidade na área de Tecnologia. </p> </div>
 👨‍💻 Sobre mim
 
@@ -119,7 +119,3 @@ No longo prazo, meu objetivo é atuar como Desenvolvedor Full Stack, construindo
 ⭐ Obrigado por visitar meu perfil!
 
 </div> ``` :::
-
-Agora é só copiar esse conteúdo e substituir o conteúdo do seu README.md no GitHub. O botão do LinkedIn já está com o endereço completo e correto.
-
-Se quiser, também posso fazer uma versão mais profissional e moderna do seu README, com badges, estatísticas do GitHub, gráfico de linguagens e uma apresentação mais forte para chamar a atenção de recrutadores.
