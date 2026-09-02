@@ -103,7 +103,7 @@ Quero trabalhar em um ambiente onde possa aprender com profissionais experientes
 No longo prazo, meu objetivo é atuar como Desenvolvedor Full Stack, construindo aplicações completas, acessíveis, funcionais e seguindo boas práticas de desenvolvimento.
 
 📫 Contatos
-<div align="center"> <a href="https://www.linkedin.com/in/robson-de-arau%C3%BAjo-andrade-5ab34421a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/RobsonA222" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div> <br> <div align="center">
+<div align="center"> <a href="www.linkedin.com/in/robson-de-araújo-andrade-5ab34421a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/RobsonA222" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div> <br> <div align="center">
 
 📩 Aberto a oportunidades, conexões, projetos e networking na área de Tecnologia.
 
