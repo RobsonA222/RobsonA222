@@ -1,8 +1,10 @@
+
 <div align="center"> <img width="1376" height="768" alt="Robson de Araújo Andrade - Desenvolvedor Web" src="https://github.com/user-attachments/assets/77b1b197-de02-46c5-8292-e3b1293e2ba0" />
 
 <br><br>
 
-👋 Olá, eu sou Robson de Araújo Andrade
+<h1>👋 Olá, eu sou Robson de Araújo Andrade<h1>
+
 💻 Desenvolvedor Web em formação | 🎓 Estudante de ADS | 🚀 Futuro Full Stack
 <p> Transformando aprendizado em projetos reais e buscando minha primeira oportunidade na área de Tecnologia. </p> </div>
 👨‍💻 Sobre mim
