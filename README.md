@@ -1,6 +1,3 @@
-Claro. Já deixei todo o seu README organizado e com o LinkedIn corrigido, mantendo suas informações e melhorando um pouco a estrutura e a apresentação.
-
-Escrita
 <div align="center"> <img width="1376" height="768" alt="Robson de Araújo Andrade - Desenvolvedor Web" src="https://github.com/user-attachments/assets/77b1b197-de02-46c5-8292-e3b1293e2ba0" />
 
 <br><br>
