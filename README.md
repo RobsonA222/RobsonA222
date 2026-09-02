@@ -1,173 +1,117 @@
+<div align="center"> <img width="1376" height="768" alt="Robson de Araújo Andrade - Desenvolvedor Web" src="https://github.com/user-attachments/assets/77b1b197-de02-46c5-8292-e3b1293e2ba0" />
 
-<div align="center">
-  <<img width="1376" height="768" alt="Firefly_Gemini Flash_faça imagem um pouco mais elaborada e coloque em 16-9 537033 (1)" src="https://github.com/user-attachments/assets/77b1b197-de02-46c5-8292-e3b1293e2ba0" />
+<br><br>
+
+<h1>👋 Olá, eu sou Robson de Araújo Andrade</h1> <h3>💻 Desenvolvedor Web em formação | 🎓 Estudante de ADS | 🚀 Futuro Full Stack</h3> <p> Transformando aprendizado em projetos reais e buscando minha primeira oportunidade na área de Tecnologia. </p> </div>
+👨‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou direcionando minha carreira para a área de Tecnologia, com foco em Desenvolvimento Web.
+
+Antes de iniciar minha transição para tecnologia, construí minha trajetória profissional na ERA TÉCNICA, onde tive a oportunidade de crescer profissionalmente e assumir uma posição de liderança.
+
+Essa experiência me permitiu desenvolver habilidades importantes como:
+
+🤝 Liderança e trabalho em equipe
+📋 Organização e acompanhamento de processos
+🎯 Gestão de atividades e responsabilidades
+🧩 Resolução de problemas
+💬 Comunicação e relacionamento interpessoal
+📈 Comprometimento com resultados
+
+Atualmente, estou unindo essa experiência profissional aos conhecimentos que venho adquirindo em programação.
+
+Meu objetivo é conquistar minha primeira oportunidade profissional em Tecnologia, especialmente em Desenvolvimento Web, e evoluir continuamente até me tornar um Desenvolvedor Full Stack.
+
+🛠️ Tecnologias e conhecimentos
+🌐 Desenvolvimento Web
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" /> </div>
+💻 Programação
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" /> </div>
+📚 Atualmente estudando
+JavaScript
+HTML5 e CSS3
+Python
+Linguagem C
+Lógica de programação
+Desenvolvimento Front-End
+Desenvolvimento Back-End
+Acessibilidade e boas práticas para Web
+🚀 Projetos em destaque
+♿ HelpOld — Acessibilidade Digital
+
+Projeto acadêmico de acessibilidade web desenvolvido com HTML5, CSS3, JavaScript, Web Speech API e ARIA.
+
+O objetivo do projeto é demonstrar, na prática, como recursos de acessibilidade podem tornar aplicações Web mais inclusivas para idosos e pessoas com deficiência visual, auditiva e motora.
+
+✨ Principais funcionalidades
+🔠 Ajuste de tamanho da fonte
+🌓 Alto contraste
+🔊 Leitura de conteúdo por voz utilizando Web Speech API
+⌨️ Navegação por teclado
+♿ Recursos de acessibilidade com ARIA
+🌙 Modo escuro
+📏 Ajuste de espaçamento entre linhas
+🧪 Área interativa para testes de acessibilidade
+
+Tecnologias: HTML5 • CSS3 • JavaScript • Web Speech API • ARIA
+
+🌐 Acessar o projeto
+
+💡 Projeto desenvolvido com auxílio de Inteligência Artificial como ferramenta de apoio durante o processo de desenvolvimento e aprendizagem.
+
+♻️ ECOUmbrella — Recicle. Conecte. Ganhe.
+
+Plataforma de sustentabilidade voltada à coleta seletiva e à conexão entre comunidades urbanas.
+
+O projeto foi pensado para moradores de condomínios e pequenos comércios, incentivando hábitos sustentáveis através de gamificação, pontos e ranking ecológico.
+
+✨ Principais funcionalidades
+📍 Localização de pontos de coleta
+🏆 Sistema de pontos e recompensas
+🥇 Ranking ecológico
+🔔 Alertas de coleta
+♻️ Categorias de materiais recicláveis
+📝 Cadastro dividido em etapas
+🎁 Pontos de boas-vindas
+🌈 Recursos de acessibilidade
+🔊 Leitura por voz
+🔠 Ajuste de tamanho de fonte
+🎨 Filtros para diferentes tipos de daltonismo
+⚫ Alto contraste
+♻️ Categorias
+Reciclagem geral
+Eletrônicos
+Vidro
+Óleo de cozinha
+
+🌐 Acessar o projeto
+
+💡 Projeto desenvolvido com auxílio de Inteligência Artificial como ferramenta de apoio à criação, prototipação e desenvolvimento.
+
+🎯 Objetivo profissional
+
+Busco minha primeira oportunidade na área de Tecnologia, especialmente em posições relacionadas a:
+
+💻 Desenvolvimento Web
+🎨 Front-End
+⚙️ Back-End
+🧑‍💻 Estágio em Desenvolvimento
+🚀 Desenvolvimento Full Stack
+
+Quero trabalhar em um ambiente onde possa aprender com profissionais experientes, contribuir com projetos reais e transformar meus conhecimentos acadêmicos em experiência prática.
+
+No longo prazo, meu objetivo é atuar como Desenvolvedor Full Stack, construindo aplicações completas, acessíveis, funcionais e seguindo boas práticas de desenvolvimento.
+
+📫 Contatos
+<div align="center"> <a href="https://www.linkedin.com/in/robson-de-arau%C3%BAjo-andrade-5ab34421a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/RobsonA222" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div> <br> <div align="center">
+
+📩 Aberto a oportunidades, conexões, projetos e networking na área de Tecnologia.
 
 </div>
+<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RobsonA222.RobsonA222" alt="Visualizações do perfil" />
 
-###
+<br><br>
 
-<div data-importer="socials" align="center">
-
-  <a href="https://www.linkedin.com/in/robson-de-ara%C3%BAjo-andrade-5ab34421a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
+⭐ Obrigado por visitar meu perfil!
 
 </div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=RobsonA222.RobsonA222" />
-</div>
-
-###
-
-<h1 data-importer="text" align="center">Robson de Araújo Andrade</h1>
-
-###
-
-<h3 data-importer="text" align="center">
-  💻 Desenvolvedor Web em formação | Estudante de ADS
-</h3>
-
-###
-
-<h3 data-importer="text" align="left">👨‍💻 Sobre Mim:</h3>
-
-###
-
-<p data-importer="text" align="left">
-  Iniciei minha trajetória profissional na ERA TÉCNICA e, ao longo dos anos, tive a oportunidade de crescer profissionalmente e assumir a função de Líder, desafio que aceitei com entusiasmo, dedicação e responsabilidade.
-  <br><br>
- Durante minha experiência profissional, desenvolvi competências em liderança, organização, gestão de equipes, controle de processos, acompanhamento de atividades e resolução de problemas. Essa vivência contribuiu significativamente para minha evolução profissional e pessoal, fortalecendo minha capacidade de trabalhar em equipe, assumir responsabilidades e buscar soluções para diferentes desafios.
-  <br><br>
- Atualmente, estou direcionando minha carreira para a área de Tecnologia, na qual tenho grande interesse e afinidade. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e venho me dedicando continuamente ao desenvolvimento das minhas habilidades técnicas e profissionais.
-  <br><br>
-  Tenho especial interesse em Desenvolvimento Web e meu objetivo profissional é atuar como Desenvolvedor Full Stack, aprimorando meus conhecimentos em Front-End e Back-End e transformando o aprendizado em projetos práticos.
-  <br><br>
-  Busco constantemente novos desafios, conhecimentos e oportunidades para evoluir profissionalmente, unindo minha experiência em liderança e gestão aos conhecimentos que venho adquirindo na área de tecnologia.
-  <br><br>
-  Estou aberto a conexões, projetos e oportunidades na área de tecnologia que contribuam para essa nova etapa da minha carreira.
-</p>
-
-###
-
-<h3 data-importer="text" align="left">🛠️ Linguagens e Tecnologias:</h3>
-
-###
-
-<div data-importer="techs" align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🎯 Objetivo Profissional:</h3>
-
-###
-
-<p data-importer="text" align="left">
-  Busco minha primeira oportunidade profissional na área de tecnologia, especialmente em Desenvolvimento Web, onde possa colocar meus conhecimentos em prática, aprender com profissionais experientes e contribuir para projetos reais.
-  <br><br>
-  Meu objetivo de longo prazo é me tornar um <strong>Desenvolvedor Full Stack</strong>, construindo aplicações completas, acessíveis, funcionais e utilizando boas práticas de desenvolvimento.
-</p>
-
-###
-
-<h3 data-importer="text" align="left">📚 Atualmente estudando:</h3>
-
-###
-
-<p data-importer="text" align="left">
-  • Desenvolvimento Web<br>
-  • JavaScript<br>
-  • HTML5 e CSS3<br>
-  • Python<br>
-  • Linguagem C<br>
-  • Lógica de Programação<br>
-  • Desenvolvimento Front-End<br>
-  • Desenvolvimento Back-End
-
-<h3>  PROJETOS </h3>
-
-<h4>HelpOld — Acessibilidade Digital - Criado com auxílio de IA<h4>
- <p>https://robsona222.github.io/PROJETO-HELPOLD/
-
-
-O que é o projeto
-
-
-O HelpOld é um projeto acadêmico de acessibilidade web que demonstra, na prática, como implementar soluções de inclusão digital para idosos e pessoas com deficiência visual, auditiva e motora. Foi desenvolvido com tecnologias web nativas — HTML5, CSS3, JavaScript, Web Speech API e ARIA — sem dependências externas.
-
-Funcionalidades implementadas
-Ajuste de fonte — permite aumentar ou diminuir o tamanho do texto (de 14px a 32px), sem perda de conteúdo.
-Alto contraste — esquema de cores preto e amarelo, com ratio mínimo de 4.5:1, voltado a usuários com daltonismo ou baixa visão.
-Leitura de texto (TTS) — utiliza a Web Speech API do navegador para ler o conteúdo da página em voz alta, em português.
-Navegação por teclado — todos os elementos interativos são acessíveis via Tab, Enter e setas, sem depender do mouse.
-Textos alternativos (ARIA) — atributos alt e aria-label garantem compatibilidade com leitores de tela como NVDA e JAWS.
-Modo escuro — reduz o brilho e a fadiga visual, útil para usuários fotossensíveis ou uso noturno.
-Área interativa de demonstração — permite testar em tempo real o ajuste de fonte, espaçamento entre linhas, leitura em voz alta e modos de contraste.
-Contexto e motivação
-
-O projeto apresenta dados que reforçam a urgência do tema:
-
-1,3 bilhão de pessoas com deficiência no mundo
-97% dos sites apresentam falhas de acessibilidade
-253 milhões de pessoas com deficiência visual
-466 milhões de pessoas com deficiência auditiva
-32 milhões de idosos (60+) no Brasil
-18,6 milhões de brasileiros com algum tipo de deficiência (segundo o IBGE)
-Objetivos do projeto
-Promover inclusão digital para idosos e pessoas com deficiência
-Demonstrar a implementação prática das diretrizes WCAG 2.1
-Utilizar apenas tecnologias web padrão (HTML, CSS, JavaScript)
-Garantir compatibilidade com leitores de tela populares
-Oferecer uma interface simplificada para públicos diversos.<p>
-
-<h4> Projeto ECOUmbrella – Recicle. Conecte. Ganhe - Criado com auxílio de IA:<h4>
-<p>
-  
- https://robsona222.github.io/PROMPTS-ECOUMBRELLA/
-  
-O que é
-Uma plataforma de sustentabilidade voltada para moradores de condomínios e pequenos comércios, com foco no público de 15 a 35 anos, que facilita a coleta seletiva de materiais recicláveis conectando comunidades urbanas.
-
-Números de destaque
-
-Mais de 4.200 usuários ativos
-18 toneladas de material reciclado
-320 pontos de coleta
-58 parceiros
-
-Principais funcionalidades
-
-Mapas de Coleta — localiza pontos de coleta próximos com horários em tempo real
-Sistema de Pontos — recompensa cada reciclagem com pontos trocáveis por descontos e produtos
-Ranking Ecológico — competição entre moradores/condomínios pela liderança em sustentabilidade
-Alertas de Coleta — notificações para não perder o dia da coleta
-
-Categorias de reciclagem: reciclagem geral, eletrônicos, vidro e óleo de cozinha.
-
-Fluxo de cadastro
-O site tem um cadastro em 3 etapas: dados pessoais → localização (CEP/tipo de imóvel) → materiais reciclados e como conheceu a plataforma. Ao final, o usuário ganha 50 pontos de boas-vindas.
-
-Parceiros: EcoBrasil (reciclagem de plásticos), VerdeMais (compostagem), Energia Limpa (energia renovável) e Planta & Vida (arborização urbana).
-
-Acessibilidade: o site inclui recursos como ajuste de tamanho de fonte, filtros para daltonismo (protanopia, deuteranopia, tritanopia, acromatopsia), alto contraste e leitura por voz.</p>
-
-
-###
