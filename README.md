@@ -2,7 +2,9 @@
 
 <br><br>
 
-<h1>👋 Olá, eu sou Robson de Araújo Andrade</h1> <h3>💻 Desenvolvedor Web em formação | 🎓 Estudante de ADS | 🚀 Futuro Full Stack</h3> <p> Transformando aprendizado em projetos reais e buscando minha primeira oportunidade na área de Tecnologia. </p> </div>
+👋 Olá, eu sou Robson de Araújo Andrade
+💻 Desenvolvedor Web em formação | 🎓 Estudante de ADS | 🚀 Futuro Full Stack
+<p> Transformando aprendizado em projetos reais e buscando minha primeira oportunidade na área de Tecnologia. </p> </div>
 👨‍💻 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou direcionando minha carreira para a área de Tecnologia, com foco em Desenvolvimento Web.
@@ -73,45 +75,4 @@ O projeto foi pensado para moradores de condomínios e pequenos comércios, ince
 ♻️ Categorias de materiais recicláveis
 📝 Cadastro dividido em etapas
 🎁 Pontos de boas-vindas
-🌈 Recursos de acessibilidade
-🔊 Leitura por voz
-🔠 Ajuste de tamanho de fonte
-🎨 Filtros para diferentes tipos de daltonismo
-⚫ Alto contraste
-♻️ Categorias
-Reciclagem geral
-Eletrônicos
-Vidro
-Óleo de cozinha
-
-🌐 Acessar o projeto
-
-💡 Projeto desenvolvido com auxílio de Inteligência Artificial como ferramenta de apoio à criação, prototipação e desenvolvimento.
-
-🎯 Objetivo profissional
-
-Busco minha primeira oportunidade na área de Tecnologia, especialmente em posições relacionadas a:
-
-💻 Desenvolvimento Web
-🎨 Front-End
-⚙️ Back-End
-🧑‍💻 Estágio em Desenvolvimento
-🚀 Desenvolvimento Full Stack
-
-Quero trabalhar em um ambiente onde possa aprender com profissionais experientes, contribuir com projetos reais e transformar meus conhecimentos acadêmicos em experiência prática.
-
-No longo prazo, meu objetivo é atuar como Desenvolvedor Full Stack, construindo aplicações completas, acessíveis, funcionais e seguindo boas práticas de desenvolvimento.
-
-📫 Contatos
-<div align="center"> <a href="www.linkedin.com/in/robson-de-araújo-andrade-5ab34421a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/RobsonA222" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div> <br> <div align="center">
-
-📩 Aberto a oportunidades, conexões, projetos e networking na área de Tecnologia.
-
-</div>
-<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RobsonA222.RobsonA222" alt="Visualizações do perfil" />
-
-<br><br>
-
-⭐ Obrigado por visitar meu perfil!
-
-</div>
+🌈 Recursos de acess
