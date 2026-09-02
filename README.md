@@ -1,3 +1,6 @@
+Claro. Já deixei todo o seu README organizado e com o LinkedIn corrigido, mantendo suas informações e melhorando um pouco a estrutura e a apresentação.
+
+Escrita
 <div align="center"> <img width="1376" height="768" alt="Robson de Araújo Andrade - Desenvolvedor Web" src="https://github.com/user-attachments/assets/77b1b197-de02-46c5-8292-e3b1293e2ba0" />
 
 <br><br>
@@ -75,4 +78,49 @@ O projeto foi pensado para moradores de condomínios e pequenos comércios, ince
 ♻️ Categorias de materiais recicláveis
 📝 Cadastro dividido em etapas
 🎁 Pontos de boas-vindas
-🌈 Recursos de acess
+🌈 Recursos de acessibilidade
+🔊 Leitura por voz
+🔠 Ajuste de tamanho de fonte
+🎨 Filtros para diferentes tipos de daltonismo
+⚫ Alto contraste
+♻️ Categorias
+Reciclagem geral
+Eletrônicos
+Vidro
+Óleo de cozinha
+
+🌐 Acessar o projeto
+
+💡 Projeto desenvolvido com auxílio de Inteligência Artificial como ferramenta de apoio à criação, prototipação e desenvolvimento.
+
+🎯 Objetivo profissional
+
+Busco minha primeira oportunidade na área de Tecnologia, especialmente em posições relacionadas a:
+
+💻 Desenvolvimento Web
+🎨 Front-End
+⚙️ Back-End
+🧑‍💻 Estágio em Desenvolvimento
+🚀 Desenvolvimento Full Stack
+
+Quero trabalhar em um ambiente onde possa aprender com profissionais experientes, contribuir com projetos reais e transformar meus conhecimentos acadêmicos em experiência prática.
+
+No longo prazo, meu objetivo é atuar como Desenvolvedor Full Stack, construindo aplicações completas, acessíveis, funcionais e seguindo boas práticas de desenvolvimento.
+
+📫 Contatos
+<div align="center"> <a href="https://www.linkedin.com/in/robson-de-araújo-andrade-5ab34421a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/RobsonA222" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div> <br> <div align="center">
+
+📩 Aberto a oportunidades, conexões, projetos e networking na área de Tecnologia.
+
+</div>
+<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RobsonA222.RobsonA222" alt="Visualizações do perfil" />
+
+<br><br>
+
+⭐ Obrigado por visitar meu perfil!
+
+</div> ``` :::
+
+Agora é só copiar esse conteúdo e substituir o conteúdo do seu README.md no GitHub. O botão do LinkedIn já está com o endereço completo e correto.
+
+Se quiser, também posso fazer uma versão mais profissional e moderna do seu README, com badges, estatísticas do GitHub, gráfico de linguagens e uma apresentação mais forte para chamar a atenção de recrutadores.
