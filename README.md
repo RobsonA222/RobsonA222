@@ -1,173 +1,245 @@
+<div align="center">
+
+# 👋 Olá! Eu sou Robson de Araújo
+
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+
+<p>
+  <a href="https://github.com/RobsonA222">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória profissional na área de tecnologia.
+
+Minha experiência profissional também contribuiu muito para minha formação. Ao longo da minha trajetória, desenvolvi habilidades como **liderança, organização, responsabilidade, trabalho em equipe e resolução de problemas**.
+
+Atualmente, estou direcionando essas experiências para a área de tecnologia, buscando evoluir continuamente como profissional e ampliar meus conhecimentos em **programação, desenvolvimento de sistemas e soluções digitais**.
+
+> 🎯 **Meu objetivo:** transformar conhecimento em projetos, projetos em experiência e experiência em oportunidades na área de tecnologia.
+
+---
+
+## 💻 Tecnologias e conhecimentos
 
 <div align="center">
-  <<img width="1376" height="768" alt="Firefly_Gemini Flash_faça imagem um pouco mais elaborada e coloque em 16-9 537033 (1)" src="https://github.com/user-attachments/assets/77b1b197-de02-46c5-8292-e3b1293e2ba0" />
+
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=html,css,java,c,python" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
+## 📚 Atualmente estudando
 
-  <a href="https://www.linkedin.com/in/robson-de-ara%C3%BAjo-andrade-5ab34421a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+* 🎓 Análise e Desenvolvimento de Sistemas
+* 💻 Lógica de programação
+* ☕ Java
+* 🔵 Linguagem C
+* 🐍 Python
+* 🌐 HTML e CSS
+* 🔧 Git e GitHub
+* 🗄️ Conceitos de banco de dados
+* ♿ Acessibilidade e desenvolvimento web
+* 🤖 Inteligência Artificial aplicada ao desenvolvimento
+
+---
+
+## 🧠 O que estou desenvolvendo
+
+Tenho buscado transformar os conhecimentos adquiridos durante minha formação em **projetos práticos**.
+
+Meu foco atualmente está em:
+
+```text
+📌 Aprender
+    ↓
+💡 Praticar
+    ↓
+💻 Desenvolver projetos
+    ↓
+🚀 Criar portfólio
+    ↓
+🎯 Conquistar uma oportunidade na área de tecnologia
+```
+
+---
+
+# 🛠️ Projetos
+
+## 🌊 CodeWave Summit 2026
+
+Projeto acadêmico de desenvolvimento de um site para um evento voltado para jovens interessados em tecnologia e desenvolvimento de software.
+
+### Principais conceitos trabalhados:
+
+* 🌐 Desenvolvimento web
+* 🎨 Web Design
+* ♿ Acessibilidade
+* 📱 Responsividade
+* 🤖 Utilização de Inteligência Artificial
+* 🧩 Prototipagem de prompts
+* 📣 Comunicação e identidade visual
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+---
+
+## ♿ Projeto de Acessibilidade
+
+Projeto desenvolvido com foco na criação de uma experiência digital mais acessível.
+
+A proposta envolve recursos que ajudam diferentes usuários a navegar e interagir com o conteúdo de maneira mais confortável.
+
+### Conceitos trabalhados:
+
+* Acessibilidade web
+* WCAG
+* Contraste
+* Navegação por teclado
+* Skip Link
+* Organização semântica
+* Experiência do usuário
+
+---
+
+## 🔵 Projeto em C
+
+Projeto acadêmico desenvolvido para praticar os fundamentos da linguagem C e desenvolver o raciocínio lógico.
+
+### Conceitos praticados:
+
+* Variáveis
+* Condicionais
+* Estruturas de repetição
+* Funções
+* Entrada e saída de dados
+* Lógica de programação
+
+---
+
+## 🌐 Meu portfólio
+
+Também estou desenvolvendo meu próprio espaço para apresentar minha evolução, projetos e conhecimentos na área de tecnologia.
+
+> 🚧 **Portfólio em desenvolvimento**
+
+Em breve, este espaço contará com novos projetos e experiências.
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonA222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonA222&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Minha evolução
+
+Estou construindo minha carreira passo a passo.
+
+```text
+🎓 Formação em ADS
+        ↓
+📚 Estudos
+        ↓
+💻 Projetos acadêmicos
+        ↓
+🧪 Prática
+        ↓
+🌐 Portfólio
+        ↓
+🚀 Experiência profissional em Tecnologia
+```
+
+Cada projeto representa uma oportunidade de aprender algo novo e melhorar minhas habilidades.
+
+---
+
+# 🌱 Além da programação
+
+Acredito que um bom profissional de tecnologia não precisa apenas conhecer ferramentas e linguagens.
+
+Também valorizo:
+
+* 🤝 Trabalho em equipe
+* 🧠 Pensamento lógico
+* 🎯 Comprometimento
+* 🗣️ Comunicação
+* 👥 Liderança
+* 📋 Organização
+* 🔎 Curiosidade
+* 📚 Aprendizado contínuo
+* 💡 Resolução de problemas
+
+Essas habilidades fazem parte da minha trajetória e continuam contribuindo para minha formação profissional.
+
+---
+
+# 🎯 Objetivo profissional
+
+Estou em busca de oportunidades que me permitam **entrar no mercado de tecnologia, colocar meus conhecimentos em prática e continuar aprendendo**.
+
+Tenho interesse em ambientes onde possa contribuir, aprender com profissionais mais experientes e evoluir junto com a equipe.
+
+> **Estou construindo minha carreira em tecnologia com dedicação, aprendizado contínuo e vontade de fazer acontecer. 🚀**
+
+---
+
+# 📫 Entre em contato
+
+<div align="center">
+
+### Vamos conversar? 🤝
+
+<p>
+  <a href="SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-</div>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=RobsonA222.RobsonA222" />
-</div>
-
-###
-
-<h1 data-importer="text" align="center">Robson de Araújo Andrade</h1>
-
-###
-
-<h3 data-importer="text" align="center">
-  💻 Desenvolvedor Web em formação | Estudante de ADS
-</h3>
-
-###
-
-<h3 data-importer="text" align="left">👨‍💻 Sobre Mim:</h3>
-
-###
-
-<p data-importer="text" align="left">
-  Iniciei minha trajetória profissional na ERA TÉCNICA e, ao longo dos anos, tive a oportunidade de crescer profissionalmente e assumir a função de Líder, desafio que aceitei com entusiasmo, dedicação e responsabilidade.
-  <br><br>
- Durante minha experiência profissional, desenvolvi competências em liderança, organização, gestão de equipes, controle de processos, acompanhamento de atividades e resolução de problemas. Essa vivência contribuiu significativamente para minha evolução profissional e pessoal, fortalecendo minha capacidade de trabalhar em equipe, assumir responsabilidades e buscar soluções para diferentes desafios.
-  <br><br>
- Atualmente, estou direcionando minha carreira para a área de Tecnologia, na qual tenho grande interesse e afinidade. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e venho me dedicando continuamente ao desenvolvimento das minhas habilidades técnicas e profissionais.
-  <br><br>
-  Tenho especial interesse em Desenvolvimento Web e meu objetivo profissional é atuar como Desenvolvedor Full Stack, aprimorando meus conhecimentos em Front-End e Back-End e transformando o aprendizado em projetos práticos.
-  <br><br>
-  Busco constantemente novos desafios, conhecimentos e oportunidades para evoluir profissionalmente, unindo minha experiência em liderança e gestão aos conhecimentos que venho adquirindo na área de tecnologia.
-  <br><br>
-  Estou aberto a conexões, projetos e oportunidades na área de tecnologia que contribuam para essa nova etapa da minha carreira.
+  <a href="https://github.com/RobsonA222">
+    <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
-###
-
-<h3 data-importer="text" align="left">🛠️ Linguagens e Tecnologias:</h3>
-
-###
-
-<div data-importer="techs" align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-
 </div>
 
-###
+---
 
-<h3 data-importer="text" align="left">🎯 Objetivo Profissional:</h3>
+<div align="center">
 
-###
+### 💙 Obrigado pela visita!
 
-<p data-importer="text" align="left">
-  Busco minha primeira oportunidade profissional na área de tecnologia, especialmente em Desenvolvimento Web, onde possa colocar meus conhecimentos em prática, aprender com profissionais experientes e contribuir para projetos reais.
-  <br><br>
-  Meu objetivo de longo prazo é me tornar um <strong>Desenvolvedor Full Stack</strong>, construindo aplicações completas, acessíveis, funcionais e utilizando boas práticas de desenvolvimento.
-</p>
+**Sempre aprendendo. Sempre evoluindo. Sempre buscando novos desafios. 🚀**
 
-###
+⭐ Se algum projeto chamou sua atenção, fique à vontade para conhecer meus repositórios!
 
-<h3 data-importer="text" align="left">📚 Atualmente estudando:</h3>
-
-###
-
-<p data-importer="text" align="left">
-  • Desenvolvimento Web<br>
-  • JavaScript<br>
-  • HTML5 e CSS3<br>
-  • Python<br>
-  • Linguagem C<br>
-  • Lógica de Programação<br>
-  • Desenvolvimento Front-End<br>
-  • Desenvolvimento Back-End
-
-<h3>  PROJETOS </h3>
-
-<h4>HelpOld — Acessibilidade Digital - Criado com auxílio de IA<h4>
- <p>https://robsona222.github.io/PROJETO-HELPOLD/
-
-
-O que é o projeto
-
-
-O HelpOld é um projeto acadêmico de acessibilidade web que demonstra, na prática, como implementar soluções de inclusão digital para idosos e pessoas com deficiência visual, auditiva e motora. Foi desenvolvido com tecnologias web nativas — HTML5, CSS3, JavaScript, Web Speech API e ARIA — sem dependências externas.
-
-Funcionalidades implementadas
-Ajuste de fonte — permite aumentar ou diminuir o tamanho do texto (de 14px a 32px), sem perda de conteúdo.
-Alto contraste — esquema de cores preto e amarelo, com ratio mínimo de 4.5:1, voltado a usuários com daltonismo ou baixa visão.
-Leitura de texto (TTS) — utiliza a Web Speech API do navegador para ler o conteúdo da página em voz alta, em português.
-Navegação por teclado — todos os elementos interativos são acessíveis via Tab, Enter e setas, sem depender do mouse.
-Textos alternativos (ARIA) — atributos alt e aria-label garantem compatibilidade com leitores de tela como NVDA e JAWS.
-Modo escuro — reduz o brilho e a fadiga visual, útil para usuários fotossensíveis ou uso noturno.
-Área interativa de demonstração — permite testar em tempo real o ajuste de fonte, espaçamento entre linhas, leitura em voz alta e modos de contraste.
-Contexto e motivação
-
-O projeto apresenta dados que reforçam a urgência do tema:
-
-1,3 bilhão de pessoas com deficiência no mundo
-97% dos sites apresentam falhas de acessibilidade
-253 milhões de pessoas com deficiência visual
-466 milhões de pessoas com deficiência auditiva
-32 milhões de idosos (60+) no Brasil
-18,6 milhões de brasileiros com algum tipo de deficiência (segundo o IBGE)
-Objetivos do projeto
-Promover inclusão digital para idosos e pessoas com deficiência
-Demonstrar a implementação prática das diretrizes WCAG 2.1
-Utilizar apenas tecnologias web padrão (HTML, CSS, JavaScript)
-Garantir compatibilidade com leitores de tela populares
-Oferecer uma interface simplificada para públicos diversos.<p>
-
-<h4> Projeto ECOUmbrella – Recicle. Conecte. Ganhe - Criado com auxílio de IA:<h4>
-<p>
-  
- https://robsona222.github.io/PROMPTS-ECOUMBRELLA/
-  
-O que é
-Uma plataforma de sustentabilidade voltada para moradores de condomínios e pequenos comércios, com foco no público de 15 a 35 anos, que facilita a coleta seletiva de materiais recicláveis conectando comunidades urbanas.
-
-Números de destaque
-
-Mais de 4.200 usuários ativos
-18 toneladas de material reciclado
-320 pontos de coleta
-58 parceiros
-
-Principais funcionalidades
-
-Mapas de Coleta — localiza pontos de coleta próximos com horários em tempo real
-Sistema de Pontos — recompensa cada reciclagem com pontos trocáveis por descontos e produtos
-Ranking Ecológico — competição entre moradores/condomínios pela liderança em sustentabilidade
-Alertas de Coleta — notificações para não perder o dia da coleta
-
-Categorias de reciclagem: reciclagem geral, eletrônicos, vidro e óleo de cozinha.
-
-Fluxo de cadastro
-O site tem um cadastro em 3 etapas: dados pessoais → localização (CEP/tipo de imóvel) → materiais reciclados e como conheceu a plataforma. Ao final, o usuário ganha 50 pontos de boas-vindas.
-
-Parceiros: EcoBrasil (reciclagem de plásticos), VerdeMais (compostagem), Energia Limpa (energia renovável) e Planta & Vida (arborização urbana).
-
-Acessibilidade: o site inclui recursos como ajuste de tamanho de fonte, filtros para daltonismo (protanopia, deuteranopia, tritanopia, acromatopsia), alto contraste e leitura por voz.</p>
-
-
-###
+</div>
