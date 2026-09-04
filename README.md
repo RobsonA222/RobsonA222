@@ -118,4 +118,4 @@ No longo prazo, meu objetivo é atuar como Desenvolvedor Full Stack, construindo
 
  Obrigado por visitar meu perfil!
 
-</div> ``` :::
+</div>
