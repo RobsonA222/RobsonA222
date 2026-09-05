@@ -2,9 +2,9 @@
 
 <img width="1376" height="768" alt="Banner do perfil" src="https://github.com/user-attachments/assets/01ee6a43-cd00-4964-8710-987449f8627a">
 
-# 👋 Olá! Eu sou Robson de Araújo
+<h1>  Olá! Eu sou Robson de Araújo </h1>
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+<h2> Estudante de Análise e Desenvolvimento de Sistemas</h2> 
 
 <p>
   <a href="https://github.com/RobsonA222">
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória profissional na área de tecnologia.
 
@@ -32,11 +32,11 @@ Ao longo da minha trajetória profissional, desenvolvi habilidades importantes c
 
 Atualmente, estou direcionando essas experiências para a área de tecnologia, buscando evoluir continuamente como profissional e ampliar meus conhecimentos em **programação, desenvolvimento de sistemas e soluções digitais**.
 
-> 🎯 **Meu objetivo:** transformar conhecimento em projetos, projetos em experiência e experiência em oportunidades na área de tecnologia.
+>  **Meu objetivo:** transformar conhecimento em projetos, projetos em experiência e experiência em oportunidades na área de tecnologia.
 
 ---
 
-## 💻 Tecnologias e conhecimentos
+##  Tecnologias e conhecimentos
 
 <div align="center">
 
@@ -52,62 +52,62 @@ Atualmente, estou direcionando essas experiências para a área de tecnologia, b
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
-* 🎓 Análise e Desenvolvimento de Sistemas
-* 💻 Lógica de programação
-* ☕ Java
-* 🔵 Linguagem C
-* 🐍 Python
-* 🌐 HTML e CSS
-* 🔧 Git e GitHub
-* 🗄️ Conceitos de banco de dados
-* ♿ Acessibilidade e desenvolvimento web
-* 🤖 Inteligência Artificial aplicada ao desenvolvimento
+*  Análise e Desenvolvimento de Sistemas
+*  Lógica de programação
+*  Java
+*  Linguagem C
+*  Python
+*  HTML e CSS
+*  Git e GitHub
+*  Conceitos de banco de dados
+*  Acessibilidade e desenvolvimento web
+*  Inteligência Artificial aplicada ao desenvolvimento
 
 ---
 
-## 🧠 O que estou desenvolvendo
+##  O que estou desenvolvendo
 
 Tenho buscado transformar os conhecimentos adquiridos durante minha formação em **projetos práticos**.
 
 Meu foco atualmente está em:
 
 ```text
-📌 Aprender
+ Aprender
     ↓
-💡 Praticar
+ Praticar
     ↓
-💻 Desenvolver projetos
+ Desenvolver projetos
     ↓
-🚀 Criar portfólio
+ Criar portfólio
     ↓
-🎯 Conquistar uma oportunidade na área de tecnologia
+ Conquistar uma oportunidade na área de tecnologia
 ```
 
 ---
 
-# 🛠️ Projetos
+#  Projetos
 
-## 🌊 CodeWave Summit 2026
+##  CodeWave Summit 2026
 
 Projeto acadêmico de desenvolvimento de um site para um evento voltado para jovens interessados em tecnologia e desenvolvimento de software.
 
 ### Principais conceitos trabalhados:
 
-* 🌐 Desenvolvimento web
-* 🎨 Web Design
-* ♿ Acessibilidade
-* 📱 Responsividade
-* 🤖 Utilização de Inteligência Artificial
-* 🧩 Prototipagem de prompts
-* 📣 Comunicação e identidade visual
+*  Desenvolvimento web
+*  Web Design
+*  Acessibilidade
+*  Responsividade
+*  Utilização de Inteligência Artificial
+*  Prototipagem de prompts
+*  Comunicação e identidade visual
 
 **Tecnologias:** HTML • CSS • JavaScript
 
 ---
 
-## ♿ Projeto de Acessibilidade
+##  Projeto de Acessibilidade
 
 Projeto desenvolvido com foco na criação de uma experiência digital mais acessível.
 
@@ -115,18 +115,18 @@ A proposta envolve recursos que ajudam diferentes usuários a navegar e interagi
 
 ### Conceitos trabalhados:
 
-* ♿ Acessibilidade web
-* 📖 WCAG
-* 🎨 Contraste
-* ⌨️ Navegação por teclado
-* 🔗 Skip Link
-* 🧩 Organização semântica
-* 👤 Experiência do usuário
+*  Acessibilidade web
+*  WCAG
+*  Contraste
+*  Navegação por teclado
+*  Skip Link
+*  Organização semântica
+*  Experiência do usuário
 
 <h4>PROJETO WEB : https://robsona222.github.io/PROJETO-HELPOLD/<h4>
 ---
 
-## 🔵 Projeto em C
+##  Projeto em C
 
 Projeto acadêmico desenvolvido para praticar os fundamentos da linguagem C e desenvolver o raciocínio lógico.
 
@@ -141,59 +141,59 @@ Projeto acadêmico desenvolvido para praticar os fundamentos da linguagem C e de
 
 ---
 
-## 🌐 Meu portfólio
+##  Meu portfólio
 
 Também estou desenvolvendo meu próprio espaço para apresentar minha evolução, projetos e conhecimentos na área de tecnologia.
 
-> 🚧 **Portfólio em desenvolvimento**
+>  **Portfólio em desenvolvimento**
 
 Em breve, este espaço contará com novos projetos e experiências.
 
 ---
 
-# 📈 Minha evolução
+#  Minha evolução
 
 Estou construindo minha carreira passo a passo.
 
 ```text
-🎓 Formação em ADS
+ Formação em ADS
         ↓
-📚 Estudos
+ Estudos
         ↓
-💻 Projetos acadêmicos
+ Projetos acadêmicos
         ↓
-🧪 Prática
+ Prática
         ↓
-🌐 Portfólio
+ Portfólio
         ↓
-🚀 Experiência profissional em Tecnologia
+ Experiência profissional em Tecnologia
 ```
 
 Cada projeto representa uma oportunidade de aprender algo novo e melhorar minhas habilidades.
 
 ---
 
-# 🌱 Além da programação
+#  Além da programação
 
 Acredito que um bom profissional de tecnologia não precisa apenas conhecer ferramentas e linguagens.
 
 Também valorizo:
 
-* 🤝 Trabalho em equipe
-* 🧠 Pensamento lógico
-* 🎯 Comprometimento
-* 🗣️ Comunicação
-* 👥 Liderança
-* 📋 Organização
-* 🔎 Curiosidade
-* 📚 Aprendizado contínuo
-* 💡 Resolução de problemas
+*  Trabalho em equipe
+*  Pensamento lógico
+*  Comprometimento
+*  Comunicação
+*  Liderança
+*  Organização
+*  Curiosidade
+*  Aprendizado contínuo
+*  Resolução de problemas
 
 Essas habilidades fazem parte da minha trajetória e continuam contribuindo para minha formação profissional.
 
 ---
 
-# 🎯 Objetivo profissional
+#  Objetivo profissional
 
 Estou em busca de oportunidades que me permitam **entrar no mercado de tecnologia, colocar meus conhecimentos em prática e continuar aprendendo**.
 
@@ -203,11 +203,11 @@ Tenho interesse em ambientes onde possa contribuir, aprender com profissionais m
 
 ---
 
-# 📫 Entre em contato
+#  Entre em contato
 
 <div align="center">
 
-### Vamos conversar? 🤝
+### Vamos conversar? 
 
 <p>
 
@@ -231,10 +231,10 @@ Tenho interesse em ambientes onde possa contribuir, aprender com profissionais m
 
 <div align="center">
 
-### 💙 Obrigado pela visita!
+###  Obrigado pela visita!
 
-**Sempre aprendendo. Sempre evoluindo. Sempre buscando novos desafios. 🚀**
+**Sempre aprendendo. Sempre evoluindo. Sempre buscando novos desafios. **
 
-⭐ Se algum projeto chamou sua atenção, fique à vontade para conhecer meus repositórios!
+ Se algum projeto chamou sua atenção, fique à vontade para conhecer meus repositórios!
 
 </div>
