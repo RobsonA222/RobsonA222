@@ -151,18 +151,6 @@ Em breve, este espaço contará com novos projetos e experiências.
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonA222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonA222&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas">
-
-</div>
-
----
-
 # 📈 Minha evolução
 
 Estou construindo minha carreira passo a passo.
