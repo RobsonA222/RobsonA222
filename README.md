@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1376" height="768" alt="Gemini_Generated_Image_3klhhe3klhhe3klh" src="https://github.com/user-attachments/assets/01ee6a43-cd00-4964-8710-987449f8627a" 
+
+<img width="1376" height="768" alt="Banner do perfil" src="https://github.com/user-attachments/assets/01ee6a43-cd00-4964-8710-987449f8627a">
 
 # 👋 Olá! Eu sou Robson de Araújo
 
@@ -9,11 +10,13 @@
   <a href="https://github.com/RobsonA222">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="www.linkedin.com/in/robson-de-araújo-andrade-5ab34421a">
+
+  <a href="https://www.linkedin.com/in/robson-de-araújo-andrade-5ab34421a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="Robeson.8991@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+  <a href="mailto:Robeson.8991@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 </p>
 
@@ -25,7 +28,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória profissional na área de tecnologia.
 
-Minha experiência profissional também contribuiu muito para minha formação. Ao longo da minha trajetória, desenvolvi habilidades como **liderança, organização, responsabilidade, trabalho em equipe e resolução de problemas**.
+Ao longo da minha trajetória profissional, desenvolvi habilidades importantes como **liderança, organização, responsabilidade, trabalho em equipe e resolução de problemas**.
 
 Atualmente, estou direcionando essas experiências para a área de tecnologia, buscando evoluir continuamente como profissional e ampliar meus conhecimentos em **programação, desenvolvimento de sistemas e soluções digitais**.
 
@@ -39,11 +42,11 @@ Atualmente, estou direcionando essas experiências para a área de tecnologia, b
 
 ### Linguagens
 
-<img src="https://skillicons.dev/icons?i=html,css,java,c,python" />
+<img src="https://skillicons.dev/icons?i=html,css,java,c,python" alt="Tecnologias: HTML, CSS, Java, C e Python">
 
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas: Git, GitHub e VS Code">
 
 </div>
 
@@ -112,13 +115,13 @@ A proposta envolve recursos que ajudam diferentes usuários a navegar e interagi
 
 ### Conceitos trabalhados:
 
-* Acessibilidade web
-* WCAG
-* Contraste
-* Navegação por teclado
-* Skip Link
-* Organização semântica
-* Experiência do usuário
+* ♿ Acessibilidade web
+* 📖 WCAG
+* 🎨 Contraste
+* ⌨️ Navegação por teclado
+* 🔗 Skip Link
+* 🧩 Organização semântica
+* 👤 Experiência do usuário
 
 ---
 
@@ -151,9 +154,9 @@ Em breve, este espaço contará com novos projetos e experiências.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonA222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonA222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonA222&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonA222&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas">
 
 </div>
 
@@ -218,17 +221,19 @@ Tenho interesse em ambientes onde possa contribuir, aprender com profissionais m
 ### Vamos conversar? 🤝
 
 <p>
-  <a href="www.linkedin.com/in/robson-de-araújo-andrade-5ab34421a">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 
-  <a href="Robeson.8991@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/robson-de-araújo-andrade-5ab34421a">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se no LinkedIn">
+</a>
 
-  <a href="https://github.com/RobsonA222">
-    <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<a href="mailto:Robeson.8991@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail">
+</a>
+
+<a href="https://github.com/RobsonA222">
+  <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus projetos no GitHub">
+</a>
+
 </p>
 
 </div>
