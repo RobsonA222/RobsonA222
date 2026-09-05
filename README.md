@@ -104,7 +104,7 @@ Projeto acadêmico de desenvolvimento de um site para um evento voltado para jov
 * 📣 Comunicação e identidade visual
 
 **Tecnologias:** HTML • CSS • JavaScript
-PROJETO WEB : https://robsona222.github.io/PROJETO-HELPOLD/
+
 ---
 
 ## ♿ Projeto de Acessibilidade
@@ -123,6 +123,7 @@ A proposta envolve recursos que ajudam diferentes usuários a navegar e interagi
 * 🧩 Organização semântica
 * 👤 Experiência do usuário
 
+<h4>PROJETO WEB : https://robsona222.github.io/PROJETO-HELPOLD/<h4>
 ---
 
 ## 🔵 Projeto em C
